@@ -1,0 +1,31 @@
+// import uvicorn : pip install uvicorn fastapi python-multipart pypdf
+//then try : python -m uvicorn main:app --reload
+
+// START BACKEND 
+// open terminal  
+
+// cd ai-doctor-backend       -----> if not working mean uvicorn not downloaded fllow top written steps 
+// run:  uvicorn main:app --reload
+// u should see : INFO: Uvicorn running on http://127.0.0.1:8000
+
+
+
+//----------------------------------------
+
+// ai frontend 
+// open new terminal
+
+//cd "C:\Users\Ruchi\OneDrive\Desktop\simulator project\ai-doctor-frontend"
+// run: npm run dev
+
+//or
+ 
+// cd ai-doctor-frontend
+// run: npm start
+// u should see :  Local:  http://localhost:3000
+
+//open browser and go to http://localhost:3000
+// you should see the AI Doctor app running and ready to use.
+
+//upload ur document and analyze it with the AI Doctor!
+

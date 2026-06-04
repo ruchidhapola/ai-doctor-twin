@@ -1,0 +1,43 @@
+AI_Digital_Doctor_Twin/
+│
+├── backend/
+│   ├── main.py
+│   ├── prediction.py
+│   ├── simulation.py
+│   ├── chat.py
+│   ├── models.py
+│   ├── database.py
+│   ├── requirements.txt
+│   └── .env
+│
+├── frontend/
+│   ├── app/
+│   ├── components/
+│   └── package.json
+│
+└── datasets/
+    ├── diabetes.csv
+    └── heart.csv
+
+----------------------------------------------------For Your Demo/Presentation
+
+The workflow is:
+
+
+1. Start Backend
+2. Start Frontend
+3. Open Website
+4. Upload PDF
+5. Show Risk Analysis
+6. Show AI Summary
+7. Ask Questions in AI Chat
+
+
+    VSCODE TERMINAL -----
+
+mkdir AI_Digital_Doctor_Twin
+cd AI_Digital_Doctor_Twin
+
+mkdir backend
+mkdir frontend
+mkdir datasets
